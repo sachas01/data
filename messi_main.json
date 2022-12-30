@@ -1,16 +1,6 @@
 {
-  "key": 4,
-  "updateAuthority": "GnTjXiZZCWJUQfNDDZjcb4boRtMw9uYr6VZwF2qCLM5A",
-  "mint": "CaAsLNMapnZKSd7y4eDus3sA9pshGjcFmcSjzVxnRPxN",
-  "data": {
     "name": "Lionel Messi",
     "symbol": "MESSI",
     "uri": "https://raw.githubusercontent.com/claynosaurz/data/main/messi.json",
     "sellerFeeBasisPoints": 5
-  },
-  "primarySaleHappened": 2999,
-  "isMutable": 1,
-  "editionNonce": 255,
-  "tokenStandard": 1,
-  "type": "metaplex"
 }
