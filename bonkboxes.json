@@ -1,0 +1,9 @@
+{
+    "name": "Bonk Boxes",
+    "symbol": "BB",
+    "description": "Bonk Boxes is a mystery boxes project launched on solana, but minted in $BONK! Win DeGods, y00ts, Rascals and more!",
+    "image": "https://github.com/claynosaurz/data/blob/main/boxx.gif?raw=true",
+    "external_url": "https://bonkbox.netlify.app",
+    "creators": "GnTjXiZZCWJUQfNDDZjcb4boRtMw9uYr6VZwF2qCLM5A",
+    "seller_fee_basis_points": 0
+}
